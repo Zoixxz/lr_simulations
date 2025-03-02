@@ -1,0 +1,1 @@
+# Description of long-range percolation simulations
