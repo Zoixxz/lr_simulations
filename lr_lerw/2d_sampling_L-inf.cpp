@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
-#include "pcg_random.hpp"
-#include "rng.cpp"
+#include "rng/pcg_random.hpp"
+#include "rng/rng.cpp"
 #include "position2d.cpp"
 
 // ----------------------- POSITION SAMPLING 2D -----------------------
